@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hi 👋, I'm Lionel, a freelance developer living near Paris, specialized in React and React-Native.
+
+I’m working on multiple topic like AI Automation Project and SEO Optimization
+
+🔭 I’m currently working on to work with new clients in Remote Position
+
+
+📫 How to reach me: lionel95200@gmail.com
+
+
 <!--
 **lionel95200x/lionel95200x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
