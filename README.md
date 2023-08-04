@@ -4,7 +4,7 @@ Hi 👋, I'm Lionel, a freelance developer living near Paris, specialized in Rea
 
 I’m working on multiple topic like AI Automation Project and SEO Optimization
 
-🔭 I’m currently working on to work with new clients in Remote Position
+🔭 I’m currently open to work with new clients in Remote Position
 
 
 📫 How to reach me: lionel95200@gmail.com
