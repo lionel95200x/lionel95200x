@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 👋, I'm Lionel, a freelance developer living near Paris, specialized in React and React-Native.
+Hi 👋, I'm Lionel, a freelance developer living, specialized in React and React-Native.
 
 I’m working on multiple topic like AI Automation Project and SEO Optimization
 
